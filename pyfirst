@@ -1,0 +1,2 @@
+a="python is a easy programming lanugage"
+print(a)
